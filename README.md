@@ -57,12 +57,4 @@ Java 17 · Spring Boot · Spring Security · Spring Data JPA · PostgreSQL · JU
 
 <br><br>
 
-<br><br>
-
-<a href="https://github.com/Sirionss">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirionss&layout=compact&theme=tokyonight&hide_border=true">
-</a>
-
-<br><br>
-
 <p align="center"><em>"Ship something solid, not something half-finished."</em></p>
