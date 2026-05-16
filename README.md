@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Damian Grishko</h1>
 <h3 align="center">Java Backend Developer · Software Engineering Student · Building REST APIs and learning every day</h3>
 
-<div align="center">
-  <img alt="Coding" width="400px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2OWtiZmRhbHRqaGJ6NzBrbWx0Z2V1djRjcGlrMWNyaTVlZGpmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-</div>
 <h2>What I Do</h2>
 
 <ul>
