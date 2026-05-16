@@ -27,13 +27,13 @@
 
 <h2>Featured Project</h2>
 
-<h3><a href="https://github.com/Sirionss/taskflow">TaskFlow</a> — Task Management REST API</h3>
+<h3><a href="https://github.com/Sirionss/taskflow">TaskFlow</a> - Task Management REST API</h3>
 
 <ul>
   <li>JWT Authentication with Spring Security</li>
-  <li>15 endpoints — CRUD, filtering, keyword search, deadline queries</li>
+  <li>15 endpoints - CRUD, filtering, keyword search, deadline queries</li>
   <li>16 unit tests with Mockito for isolated service testing</li>
-  <li>Layered architecture: Controller → Service → Repository → PostgreSQL</li>
+  <li>Layered architecture: Controller -> Service -> Repository -> PostgreSQL</li>
   <li>Custom exception handling with proper HTTP error codes</li>
 </ul>
 
