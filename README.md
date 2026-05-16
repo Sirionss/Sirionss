@@ -57,12 +57,6 @@ Java 17 · Spring Boot · Spring Security · Spring Data JPA · PostgreSQL · JU
 
 <br><br>
 
-<h2> GitHub Overview</h2>
-
-<a href="https://github.com/Sirionss">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sirionss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-</a>
-
 <br><br>
 
 <a href="https://github.com/Sirionss">
