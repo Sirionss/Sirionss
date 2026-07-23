@@ -73,7 +73,7 @@
 
 <pre>Java 17 · Spring Boot · Spring Security · JPA · PostgreSQL · JUnit 5 · Mockito · Maven</pre>
 
-<h3><a href="https://github.com/Sirionss/calltriage">CallTriage</a> — Bank Telemarketing Decision Agent</h3>
+<h3><a href="https://github.com/Sirionss/calltriage-bank-marketing">CallTriage</a> — Bank Telemarketing Decision Agent</h3>
 
 <p>An AI agent that ranks bank customers by their likelihood to subscribe to a term deposit, so a call center works a prioritized list instead of dialing at random.</p>
 
@@ -94,18 +94,5 @@
 
 <pre>React · TypeScript · Vite · Tailwind CSS · Vercel</pre>
 
-<br>
-
-<h2>📊 GitHub Overview</h2>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sirionss&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirionss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</p>
-
-<br>
 
 <p align="center"><em>"Ship something solid, not something half-finished."</em></p>
