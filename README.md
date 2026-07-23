@@ -73,6 +73,21 @@
 
 <pre>Java 17 · Spring Boot · Spring Security · JPA · PostgreSQL · JUnit 5 · Mockito · Maven</pre>
 
+<h3><a href="https://github.com/Sirionss/calltriage">CallTriage</a> — Bank Telemarketing Decision Agent</h3>
+
+<p>An AI agent that ranks bank customers by their likelihood to subscribe to a term deposit, so a call center works a prioritized list instead of dialing at random.</p>
+
+<ul>
+  <li>📊 Trained on the UCI Bank Marketing dataset — 41,188 real calls from a Portuguese bank, 20 features spanning client profile, contact history and macroeconomic context</li>
+  <li>🎯 Wraps a supervised classifier in a decision-making agent — outputs a ranked call list, not a binary yes/no</li>
+  <li>📈 <strong>ROC-AUC 0.78</strong> on severely imbalanced data (11.3% positive), where naive accuracy is meaningless — an always-no model scores 88.7%</li>
+  <li>🚫 Dropped the <code>duration</code> feature to eliminate data leakage — it is only known after a call ends, so a pre-call agent cannot use it</li>
+  <li>⚡ Agent simulation: calling the top 5% of the ranked list catches <strong>5× more subscribers</strong> than random dialing; top 20% reaches 63% recall</li>
+  <li>🔍 Compared Logistic Regression vs Random Forest, analysed feature importance and documented bias and retraining risks</li>
+</ul>
+
+<pre>Python · scikit-learn · pandas · NumPy · Matplotlib</pre>
+
 <h3>🚧 Work in Progress</h3>
 
 <p>Currently building the React frontend for Portfolio CMS — Vite, TypeScript and Tailwind CSS, consuming the live API. Next up: deployment to Vercel and migrating the backend to AWS (EC2, RDS, S3).</p>
