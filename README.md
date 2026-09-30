@@ -21,7 +21,7 @@
 <h2>🚀 About Me</h2>
 
 <ul>
-  <li>🎓 2nd year <strong>Software Engineering</strong> student at <strong>UE University of Europe for Applied Sciences</strong> (Potsdam)</li>
+  <li>🎓 3rd year <strong>Software Engineering</strong> student at <strong>UE University of Europe for Applied Sciences</strong> (Potsdam)</li>
   <li>📚 Studying advanced Java &amp; Python at <strong>VK Education</strong></li>
   <li>🔧 Building and deploying REST APIs with <strong>Spring Boot, PostgreSQL, JWT and Docker</strong></li>
   <li>🌱 Currently learning <strong>React + TypeScript</strong> to work across the full stack</li>
